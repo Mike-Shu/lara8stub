@@ -5,7 +5,8 @@
     "keywords": [
         "framework",
         "laravel-8",
-        "stub"
+        "debugbar",
+        "ide-helper"
     ],
     "license": "MIT",
     "require": {
