@@ -1,8 +1,6 @@
 ## About
 
-[Laravel 8.x](https://github.com/laravel/laravel) 
-& [Debugbar](https://github.com/barryvdh/laravel-debugbar) 
-& [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+[Laravel 8.x](https://github.com/laravel/laravel) + [Debugbar](https://github.com/barryvdh/laravel-debugbar) + [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 
 ## Installation
 
